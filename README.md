@@ -5,4 +5,4 @@ https://github.com/acheong08/ChatGPT
 https://github.com/Mrs4s/go-cqhttp  
 https://github.com/nonebot/nonebot2  
 然后编辑配置文件，导入插件，运行nonebot2和go-cqhttp即可  
-2023.02.26 亲测可用  
+截止2023.02.26可正常使用
